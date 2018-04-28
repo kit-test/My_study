@@ -1,0 +1,11 @@
+
+<html>
+<head>
+<title>Loding type</title>
+</head>
+<body>
+<p>
+<a href= "https://open.weixin.qq.com/connect/qrconnect?appid=wx5391738a2c43387a&redirect_uri=http%3a%2f%2fwww.kit.com%3a8887%2fhello&response_type=code&scope=snsapi_login,snsapi_userinfo&state=3d6be0a4035d839573b04816624a415e#wechat_redirect"target="_blank">Wechet</a>
+</p>
+</body>
+</html>
